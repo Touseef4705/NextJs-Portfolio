@@ -11,32 +11,32 @@ const projects = [
     description:
       "I developed a single-page portfolio using JavaScript, designed to showcase my skills and projects in a clean and modern interface. The portfolio emphasizes simplicity and efficiency, providing an intuitive user experience while highlighting my expertise in front-end development.",
     button: "https://touseef4705.github.io/New-Portfolio/",
-    imageUrl: "/public/Project3.png",
-    backgroundImage: 'url("/public/Project3.png")',
+    imageUrl: "/public/Project3.PNG",
+    backgroundImage: 'url("/public/Project3.PNG")',
   },
   {
     title: "Login & SignUp Form",
     description:
       "I created an animated login and sign form integrated with Firebase Authentication, delivering a smooth and secure user experience. The form features dynamic transitions and interactive elements, ensuring a visually appealing and user-friendly interface for seamless and secure account creation and access.",
     button: "https://touseef4705.github.io/firebase-authentication/",
-    imageUrl: "/public/Project4.png",
-    backgroundImage: 'url("/public/Project4.png")'
+    imageUrl: "/public/Project4.PNG",
+    backgroundImage: 'url("/public/Project4.PNG")'
   },
   {
     title: "Noon.com Clone  ",
     description:
       "I developed a responsive clone of the noon.com website, replicating its user-friendly interface and extensive product catalog. The project features a fully responsive design, ensuring a seamless shopping experience across all devices. This clone demonstrates my ability to recreate complex e-commerce platforms with attention to detail and functionality.",
     button: "https://touseef4705.github.io/noon/",
-    imageUrl: "/public/Project1.png",
-    backgroundImage: 'url("/public/Project1.png")',
+    imageUrl: "/public/Project1.PNG",
+    backgroundImage: 'url("/public/Project1.PNG")',
   },
   {
     title: "Salt'n Pepper - Clone",
     description:
       "I developed a clone of the Salt'n Pepper website, capturing its vibrant and stylish design. The project showcases a fully responsive layout, ensuring an optimal user experience on all devices. This clone highlights my ability to replicate intricate design elements and create a seamless, visually appealing interface.",
     button: "https://resumehai.netlify.app",
-    imageUrl: "/public/Project.png",
-    backgroundImage: 'url("/public/Project.png")',
+    imageUrl: "/public/Project.PNG",
+    backgroundImage: 'url("/public/Project.PNG")',
   },
 ];
 
