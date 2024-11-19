@@ -7,6 +7,22 @@ import { FaLink } from "react-icons/fa6";
 
 const projects = [
   {
+    title: "E-Learning",
+    description:
+      "I built an e-learning platform using React.js, featuring user signup, login, and course browsing functionality. The platform includes dynamic course listings, interactive quizzes, and progress tracking to enhance the learning experience. It demonstrates my skills in front-end development, API integration, and crafting responsive, user-friendly designs.",
+    button: "https://e-learning-xi-five.vercel.app/",
+    imageUrl: "/Project9.PNG",
+    backgroundImage: 'url("/Project9.PNG")',
+  },
+  {
+    title: "Car Rental",
+    description:
+      "I built a car rental website using React.js with features like dynamic vehicle listings, user authentication, real-time availability updates, and a responsive design. It highlights my skills in front-end development and creating user-friendly interfaces.",
+    button: "https://car-rental-beta-ten.vercel.app/",
+    imageUrl: "/Project8.PNG",
+    backgroundImage: 'url("/Project8.PNG")',
+  },
+  {
     title: "Noon.com Clone  ",
     description:
       "I developed a responsive clone of the noon.com website, replicating its user-friendly interface and extensive product catalog. The project features a fully responsive design, ensuring a seamless shopping experience across all devices. This clone demonstrates my ability to recreate complex e-commerce platforms with attention to detail and functionality.",
