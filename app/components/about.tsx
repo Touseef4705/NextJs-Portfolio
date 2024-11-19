@@ -29,7 +29,7 @@ export default function About() {
             <h1 className="text-center text-2xl font-bold mt-4">
               Touseef Abid
             </h1>
-            <h2 className="text-center text-xs">Front-End Developer</h2>
+            <h2 className="text-center text-xs">Mern-Stack Developer</h2>
             <div className="flex justify-center gap-3 mt-3">
               <Link
                 href="https://github.com/Touseef4705"

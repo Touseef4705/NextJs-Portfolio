@@ -15,7 +15,7 @@ import { FaFacebook } from "react-icons/fa";
 
 export default function Hero() {
   const words = [
-    "Front-End Developer",
+    "Mern-Stack Developer",
     "Freelancer",
     "Web Developer",
     "Open Source Contributer",
