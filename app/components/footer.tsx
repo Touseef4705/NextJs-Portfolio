@@ -14,8 +14,7 @@ const Footer: React.FC = () => {
       <hr className="bg-white" />
       <div className="flex p-5 justify-center">
         <h3 className="text-sm md:text-md text-white">
-          Designed by{" "}
-          <span className="text-[#4E9F3D]">Sharjeel Husain</span> {" "}
+          Designed and{" "}
           Developed by{" "}
           <span className="text-[#4E9F3D]">Touseef Abid</span>
         </h3>

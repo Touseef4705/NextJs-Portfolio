@@ -23,8 +23,8 @@ export default function Hero() {
   //  Resume Download Function
   const handleDownload = () => {
     const link = document.createElement("a");
-    link.href = "/TouseefAbidResume.pdf";
-    link.download = "TouseefAbidResume.pdf";
+    link.href = "/TouseefAbidCv.pdf";
+    link.download = "TouseefAbidCv.pdf";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -44,7 +44,7 @@ export default function Hero() {
           <FlipWords words={words} className="text-white" />
         </h1>
         <p className=" text-sm md:text-lg mt-4 font-normal text-neutral-300 max-w-xl text-center mx-auto">
-        A passionate Front-end Developer 🚀 having an experience of building Websites with JavaScript / Reactjs and some other outstanding libraries and frameworks.
+          A Passionate MERN Stack Developer 🚀 with expertise in building robust and scalable web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in designing seamless user interfaces, developing efficient backend systems, and integrating APIs to deliver end-to-end solutions. Enthusiastic about creating modern, responsive, and dynamic web experiences with a focus on performance and scalability.
         </p>
         <br />
         {/* download Resume Button  */}

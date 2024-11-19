@@ -30,7 +30,7 @@ export default function Employment() {
   return (
     <div className="w-auto">
       <h2 className="pb-9 text-[33px] italic font-bold text-white">
-      <span className="text-[#4E9F3D]">Employment</span> History
+        <span className="text-[#4E9F3D]">Employment</span> History
       </h2>
       <Timeline>
         <TimelineItem>
@@ -46,8 +46,28 @@ export default function Employment() {
                 <span className="font-bold tracking-widest me-1">
                   Front-End Developer:
                 </span>
-                I&#39;m working as an front-end developer at NubitSoft, where I 
+                I&#39;m working as an front-end developer at NubitSoft, where I
                 work on web development with React,
+                handle backend tasks, and contribute to real-world projects.
+              </p>
+            </TimelineBody>
+          </div>
+        </TimelineItem>
+        <TimelineItem>
+          <RiBuilding2Fill className="text-white h-5 w-5" />
+          <div>
+            <TimelineHeader>
+              <h5 className="nunito text-xl text-[#4E9F3D] underline">
+                Vehware
+              </h5>
+            </TimelineHeader>
+            <TimelineBody>
+              <p className="text-white text-sm">
+                <span className="font-bold tracking-widest me-1">
+                  Front-End Developer:
+                </span>
+                I&#39;m working as an front-end developer at Vehware, where I
+                work on web development with React, Next,
                 handle backend tasks, and contribute to real-world projects.
               </p>
             </TimelineBody>
