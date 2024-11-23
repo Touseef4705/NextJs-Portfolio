@@ -29,7 +29,7 @@ export default function About() {
             <h1 className="text-center text-2xl font-bold mt-4">
               Touseef Abid
             </h1>
-            <h2 className="text-center text-xs">Front-End Developer</h2>
+            <h2 className="text-center text-xs">Mern-Stack Developer</h2>
             <div className="flex justify-center gap-3 mt-3">
               <Link
                 href="https://github.com/Touseef4705"
@@ -66,7 +66,7 @@ export default function About() {
         </div>
 
         <h3 className="max-w-xl text-center sm:text-left sm:w-1/2 text-md lg:text-lg overflow-hidden text-white">
-        I am a Front-End Developer with expertise in JavaScript, TypeScript, React, and Firebase, along with a strong understanding of various modern libraries and frameworks. My focus is on crafting intuitive and responsive user interfaces, utilizing the latest technologies to create seamless and efficient web applications. I am committed to continuous learning and staying up-to-date with the latest industry trends to deliver high-quality solutions.
+          I am a MERN Stack Developer with expertise in JavaScript, TypeScript, React, Node.js, Express.js, and MongoDB, along with a strong understanding of modern libraries and frameworks. My focus is on building scalable and responsive full-stack web applications by crafting intuitive user interfaces and developing efficient backend systems. I am committed to continuous learning and staying up-to-date with the latest industry trends to deliver innovative and high-quality solutions.
         </h3>
 
         <div className="rounded-xl flex flex-col md:!w-[50%] lg:!w-1/3 justify-center">

@@ -88,6 +88,14 @@ const icons = [
     component: <DiGit />,
     name: "Git",
   },
+  {
+    component: <DiMongodb />,
+    name: "MongoDB",
+  },
+  {
+    component: <DiNodejs />,
+    name: "Node.js",
+  }
 ];
 
 export default TechStack;

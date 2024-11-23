@@ -5,6 +5,7 @@ import {
   SiVercel,
   SiGithub,
   SiAndroid,
+  SiNetlify,
 } from "react-icons/si";
 import { FaGitAlt } from "react-icons/fa";
 
@@ -55,6 +56,13 @@ const icons = [
     component: <SiVercel />,
     name: "Vercel",
   },
+  {
+    component: <SiNetlify />,
+    name: "Netlify",
+  },{
+    component: <SiPostman />,
+    name: "Postman",
+  }
 ];
 
 export default ToolStack;
